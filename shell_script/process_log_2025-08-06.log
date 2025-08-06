@@ -1,0 +1,7 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1799       1    1798      11600  cons0     197610 10:24:22 /usr/bin/vim
+     1798    1512    1798       5192  cons0     197610 10:24:20 /mingw64/bin/git
+     2004    1800    2004       8852  cons1     197610 11:57:33 /usr/bin/bash
+     2006    2004    2004      15780  cons1     197610 11:57:34 /usr/bin/ps
+     1800       1    1800       8416  cons1     197610 10:27:33 /usr/bin/bash
+     1512       1    1512       5772  cons0     197610 09:47:38 /usr/bin/bash
